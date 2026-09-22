@@ -135,14 +135,14 @@ sass --watch scss/main.scss styles/styles.css
 
 El sitio debe desplegarse en Vercel o Netlify una vez creado el repositorio público definitivo de esta entrega.
 
-**URL del deploy:** pendiente de completar al publicar el repositorio final.
+**URL del deploy:** https://rapo-proyecto-final.vercel.app
 
 ## Entrega
 
 La entrega final deberá realizarse mediante un repositorio público nuevo e independiente de las entregas anteriores.
 
-Repositorio final previsto:
+Repositorio final:
 
 `rapo-proyecto-final`
 
-Debe contener al menos dos commits descriptivos y el enlace público del deploy en este README.
+El repositorio contiene múltiples commits descriptivos y el enlace público del deploy en este README.
